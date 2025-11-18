@@ -12,10 +12,13 @@ La petición hecha es un GET  a https://pokeapi.co/api/v2/pokemon/
 Las figuras fueron para cada elemento fueron escojidas un poco al azar aunque buscando tambien la coherencia como que el fuego
 se puede ver como una flama mediante un cono o que el agua puede ser una gota entonces por eso es una esfera.
 
+Home:
 <img width="1146" height="923" alt="image" src="https://github.com/user-attachments/assets/3201c216-9c4e-4d7f-b94e-1b91718a92ee" />
 
+Details:
 <img width="1668" height="919" alt="image" src="https://github.com/user-attachments/assets/7e487e1b-f966-421f-9bea-192718a7793c" />
 
+More details:
 <img width="1716" height="919" alt="image" src="https://github.com/user-attachments/assets/e1e75684-4953-4a4a-94f6-ecec0be25caa" />
 
 
